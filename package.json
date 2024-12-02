@@ -1,0 +1,19 @@
+{
+  "name": "@-amazeelabs/silverback_ai",
+  "version": "1.1.0",
+  "main": "index.js",
+  "scripts": {
+    "version": "sync-composer-version"
+  },
+  "devDependencies": {
+    "@amazeelabs/sync-composer-version": "1.1.5"
+  },
+  "author": "Amazee Labs <development@amazeelabs.com>",
+  "publishConfig": {
+    "access": "public",
+    "registry": "http://127.0.0.1:4873",
+    "repository": "git@github.com:AmazeeLabs/silverback_ai.git",
+    "branch": "main"
+  },
+  "gitHead": "ea36d4eac7af3ce88c39d111bcd2f106ddf13581"
+}
